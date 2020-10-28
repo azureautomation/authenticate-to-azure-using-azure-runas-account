@@ -1,7 +1,7 @@
 {
     "Author": "Azure Automation Product Team",
     "ContentSize": 43770,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/authenticate-to-azure-using-azure-runas-account./master/AuthenticateTo-Azure.graphrunbook",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/authenticate-to-azure-using-azure-runas-account/master/AuthenticateTo-Azure.graphrunbook",
     "DownloadCount": 1944,
     "Id": "Authenticate-to-Azure-b2fcf043",
     "IsFederated": true,
@@ -15,6 +15,6 @@
     "Summary": "This Graphical PowerShell runbook authenticates to Azure using the built in Azure RunAs account. It is useful when called from parent runbooks that want to easily authenticate against Azure before calling Azure activities.",
     "Title": "Authenticate to Azure using Azure RunAs account.",
     "UpdatedDate": "2016-11-8T00:00:00",
-    "Url": "https://github.com/azureautomation/authenticate-to-azure-using-azure-runas-account.",
+    "Url": "https://github.com/azureautomation/authenticate-to-azure-using-azure-runas-account",
     "UserTags": "Utility, Azure Automation, GraphicalPS"
 }
